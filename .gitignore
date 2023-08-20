@@ -1,0 +1,29 @@
+# Compiled class files
+*.class
+
+# Executable JAR files
+*.jar
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+
+# Maven specific files and directories
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle specific files and directories
+build/
+.gradle/
+
+# Operating System and Backup files
+.DS_Store
+Thumbs.db
+*.bak
